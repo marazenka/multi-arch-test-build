@@ -1,2 +1,2 @@
 FROM alpine:latest
-RUN echo "Hello World! from $(uname -m)"
+RUN echo "Hello Multi-Arch World from $(uname -m)"
